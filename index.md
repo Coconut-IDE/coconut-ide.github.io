@@ -10,6 +10,7 @@ The initial release of Coconut is described in the following paper:
 >"[**Coconut: An IDE Plugin for Developing Privacy-Friendly Apps**](https://dl.acm.org/citation.cfm?doid=3301777.3287056)".
 >In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, Volume 2 Issue 4, December 2018.
 
+**We are going to run a deployment study to understand the effectiveness of Coconut in a more natural environment. If you are interested in participating in the study, please sign up using this [Google Form](https://forms.gle/s3p7M6VQSheg2Ctz7). Thanks!**
 
 How to get started
 ------------------

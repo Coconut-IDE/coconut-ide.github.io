@@ -29,9 +29,9 @@ How to get started
 2. Make sure you name the SDK: Android Studio AI-182.5107.16.33.5314842, otherwise you will need to modify ``PrivacyHelperPlugin.iml`` accordingly
 3. Make sure you use the Jetbrains Java Runtime (JDK), which should be bundled with the Android Studio application (See [this post](https://intellij-support.jetbrains.com/hc/en-us/articles/206544879) for more information). You will need to create a new JDK with this path, then specify it for the "Internal Java Platform" in the SDK config (See the screenshot).
 
-![How to set up Android Studio SDK](https://github.com/i7mist/Coconut/blob/loc_source/readme/androidstudiosdks.png)
+![How to set up Android Studio SDK](https://github.com/i7mist/Coconut/raw/loc_source/readme/androidstudiosdks.png)
 3. setup run/debug configuration. Go to Run -> Edit Configurations. Add a new configuration under the Plugin category. Make sure you select the right JRE. See the screenshot below.
-![How to set up run/build configuration](https://github.com/i7mist/Coconut/blob/loc_source/readme/runconfigurations.png)
+![How to set up run/build configuration](https://github.com/i7mist/Coconut/raw/loc_source/readme/runconfigurations.png)
 4. select the configuration that you just created, and run/debug it (just as how you do that in Android Studio)
 
 If done correctly, you should be able to see Coconut in your plugin list (Android Studio -> Preferences -> Plugins).

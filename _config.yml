@@ -2,5 +2,5 @@ title: Coconut
 logo: /assets/img/logo.png
 description: An IDE Plugin for Developing Privacy-Friendly Apps
 show_downloads: false
-google_analytics:
+google_analytics: UA-147618418-1
 theme: jekyll-theme-minimal

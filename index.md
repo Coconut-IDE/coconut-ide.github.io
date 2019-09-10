@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Coconut
 
 Coconut is an Android Studio plugin to help developers handle privacy.

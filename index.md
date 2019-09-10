@@ -38,6 +38,14 @@ If done correctly, you should be able to see Coconut in your plugin list (Androi
 
 For a more comprehensive instruction, please refer to: https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/running_and_debugging_a_plugin.html 
 
+### Test Coconut on an example Android app
+1. Download the [CoconutTest](https://github.com/Coconut-IDE/CoconutTest) project
+2. Open the project with an Android Studio that has Coconut installed. Coconut will automatically initiate privacy inspection at the project start time.
+3. If the project has incomplete annotations, the plugin will pop up a notification like this:
+![privacy error notification](/assets/img/privacyerrornotifications.png)
+4. Then you can use the PrivacyChecker tool window and quickfixes to add annotations to address these errors. You also need to import the annotation library jar to use these annotaions (available at [this repo](https://github.com/Coconut-IDE/CoconutAnnotationLib)).
+![quickfix](/assets/img/quickfix.png)
+
 Contributors
 ------------
 * Tianshi Li (Carnegie Mellon University)

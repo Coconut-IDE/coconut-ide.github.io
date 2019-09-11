@@ -12,8 +12,13 @@ The initial release of Coconut is described in the following paper:
 
 **We are going to run a deployment study to understand the effectiveness of Coconut in a more natural environment. If you are interested in participating in the study, please sign up using this [Google Form](https://forms.gle/s3p7M6VQSheg2Ctz7). Thanks!**
 
-How to get started
+Pre-built versions
 ------------------
+You can directly install the plugin in Android Studio using the pre-built jar: [0.0.1](https://github.com/Coconut-IDE/Coconut/releases/tag/0.0.1). It has been tested and worked fine for the latest Android Studio version (3.5)
+
+
+How to build the source code
+----------------------------
 
 ### Prerequisite
 1. Install
@@ -39,7 +44,8 @@ If done correctly, you should be able to see Coconut in your plugin list (Androi
 
 For a more comprehensive instruction, please refer to: https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/running_and_debugging_a_plugin.html 
 
-### Test Coconut on an example Android app
+Test Coconut on an example Android app
+--------------------------------------
 1. Download the [CoconutTest](https://github.com/Coconut-IDE/CoconutTest) project
 2. Open the project with an Android Studio that has Coconut installed. Coconut will automatically initiate privacy inspection at the project start time.
 3. If the project has incomplete annotations, the plugin will pop up a notification like this:

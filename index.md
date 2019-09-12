@@ -55,7 +55,7 @@ Test Coconut on an example Android app
 
 Contributors
 ------------
-* Tianshi Li (Carnegie Mellon University)
+* [Tianshi Li](https://tianshili.me) (Carnegie Mellon University)
 * Mike Czapik (Carnegie Mellon University)
 * Tiffany Yu (Carnegie Mellon University)
 * Elijah Neundorfer (Columbus State University)

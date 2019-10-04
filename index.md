@@ -3,7 +3,7 @@ layout: default
 ---
 # Coconut
 
-Coconut is an Android Studio plugin that can help developers handle privacy, specifically, it provides the following benefits for privacy by requiring developers to add privacy annotations:
+Coconut is an Android Studio plugin that can help developers handle privacy, specifically, it provides the following benefits for privacy by requiring developers to add <a href="#" data-toggle="popover" title="Privacy annotation example (for data collection API call)" data-html="true" data-content="<img src='/assets/img/annotation_example.png'/>">privacy annotations</a>:
 * guide developers to think through privacy risks
 * document privacy practices (especially hard-to-analyze factors such as purposes)
 * suggest better privacy practices

@@ -57,3 +57,8 @@ Contributors
 * Mike Czapik (Carnegie Mellon University)
 * Tiffany Yu (Carnegie Mellon University)
 * Elijah Neundorfer (Columbus State University)
+
+Faculty advisors
+----------------
+* [Jason Hong](http://www.cs.cmu.edu/~jasonh/) (Carnegie Mellon University)
+* [Yuvraj Agarwal](https://www.synergylabs.org/yuvraj/) (Carnegie Mellon University)

@@ -10,8 +10,6 @@ The initial release of Coconut is described in the following paper:
 >"[**Coconut: An IDE Plugin for Developing Privacy-Friendly Apps**](https://dl.acm.org/citation.cfm?doid=3301777.3287056)".
 >In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, Volume 2 Issue 4, December 2018.
 
-We are still improving our tool to prepare for releasing Coconut on the IntelliJ plugin store to more developers. In the meanwhile we are going to run a deployment study to understand the effectiveness of Coconut in a more natural environment. **If you are interested in receiving updates about new releases and/or participating in the study, please sign up using this [Google Form](https://forms.gle/s3p7M6VQSheg2Ctz7). Thanks!**
-
 Pre-built versions
 ------------------
 You can directly install the plugin in Android Studio using the pre-built jar: [0.0.1](https://github.com/Coconut-IDE/Coconut/releases/tag/0.0.1). It has been tested and worked fine for the latest Android Studio version (3.5)

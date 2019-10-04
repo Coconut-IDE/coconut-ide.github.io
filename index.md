@@ -9,10 +9,9 @@ Coconut is an Android Studio plugin that can help developers handle privacy, spe
 * suggest better privacy practices
 * make privacy practices more transparent
 
-The initial release of Coconut is described in the following paper ([UbiComp talk slides](/assets/pdf/Coconut-Ubicomp.pdf)):
->Tianshi Li, Yuvraj Agarwal, Jason I. Hong.
->"[**Coconut: An IDE Plugin for Developing Privacy-Friendly Apps**](/assets/pdf/coconut_paper.pdf)".
->In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, Volume 2 Issue 4, December 2018.
+The initial release of Coconut is described in the following paper:
+"[**Coconut: An IDE Plugin for Developing Privacy-Friendly Apps**](/assets/pdf/coconut_paper.pdf)". Tianshi Li, Yuvraj Agarwal, Jason I. Hong. In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, Volume 2 Issue 4, December 2018.
+([UbiComp talk slides](/assets/pdf/Coconut-Ubicomp.pdf))
 
 Pre-release alpha version download
 ----------------------------------
